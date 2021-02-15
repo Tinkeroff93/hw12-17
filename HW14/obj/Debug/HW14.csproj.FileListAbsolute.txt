@@ -1,0 +1,7 @@
+C:\Users\salo\source\repos\HomeWork12-17\HW14\bin\Debug\HW14.exe.config
+C:\Users\salo\source\repos\HomeWork12-17\HW14\bin\Debug\HW14.exe
+C:\Users\salo\source\repos\HomeWork12-17\HW14\bin\Debug\HW14.pdb
+C:\Users\salo\source\repos\HomeWork12-17\HW14\obj\Debug\HW14.csprojAssemblyReference.cache
+C:\Users\salo\source\repos\HomeWork12-17\HW14\obj\Debug\HW14.csproj.CoreCompileInputs.cache
+C:\Users\salo\source\repos\HomeWork12-17\HW14\obj\Debug\HW14.exe
+C:\Users\salo\source\repos\HomeWork12-17\HW14\obj\Debug\HW14.pdb
